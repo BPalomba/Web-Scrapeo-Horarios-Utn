@@ -22,12 +22,13 @@ public class WebScrapperService {
 
     // Esta funcion te devuelve en un String de json el horario
     // cada fila de la tabla es un objeto
-    public String scrapeWebsite(String url, int especialidad){
+    public String scrapeWebsite(String url, Integer numEspecialidad){
 
         List<ComisionMateria> comisiones = new ArrayList<>();
         boolean primera = true;
 
         try {
+
 
             // Los numeros para elegir especialidad
             //  5 - Sistemas
@@ -38,7 +39,7 @@ public class WebScrapperService {
             // 31 - Civil
 
             Document doc = Jsoup.connect( url )
-                    .data("especialidad", "especialidad")
+                    .data("especialidad",   numEspecialidad.toString() )
                     .method(Connection.Method.POST)
                     .post();
 
@@ -103,7 +104,7 @@ public class WebScrapperService {
             String json = gson.toJson(comisiones);
 
             // Descomentar para generar un archivo .json con el contenido
-            // Files.writeString(Paths.get("comisiones.json"), json, StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING);
+            Files.writeString(Paths.get("comisiones.json"), json, StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING);
 
             return json;
 

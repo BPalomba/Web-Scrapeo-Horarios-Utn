@@ -1,0 +1,1074 @@
+[
+  {
+    "anio": 1,
+    "materia": "Álgebra y Geometría Analítica",
+    "curso": "1K01",
+    "diaCursado": "Lunes",
+    "horaInicio": "10:15",
+    "horaFin": "13:15"
+  },
+  {
+    "anio": 1,
+    "materia": "Álgebra y Geometría Analítica",
+    "curso": "1K01",
+    "diaCursado": "Martes",
+    "horaInicio": "10:15",
+    "horaFin": "12:30"
+  },
+  {
+    "anio": 1,
+    "materia": "Álgebra y Geometría Analítica",
+    "curso": "1K01",
+    "diaCursado": "Miércoles",
+    "horaInicio": "10:15",
+    "horaFin": "11:45"
+  },
+  {
+    "anio": 1,
+    "materia": "Álgebra y Geometría Analítica",
+    "curso": "1K02",
+    "diaCursado": "Lunes",
+    "horaInicio": "10:15",
+    "horaFin": "13:15"
+  },
+  {
+    "anio": 1,
+    "materia": "Álgebra y Geometría Analítica",
+    "curso": "1K02",
+    "diaCursado": "Martes",
+    "horaInicio": "08:45",
+    "horaFin": "10:15"
+  },
+  {
+    "anio": 1,
+    "materia": "Álgebra y Geometría Analítica",
+    "curso": "1K02",
+    "diaCursado": "Viernes",
+    "horaInicio": "11:00",
+    "horaFin": "13:15"
+  },
+  {
+    "anio": 1,
+    "materia": "Álgebra y Geometría Analítica",
+    "curso": "1K04",
+    "diaCursado": "Lunes",
+    "horaInicio": "10:15",
+    "horaFin": "11:45"
+  },
+  {
+    "anio": 1,
+    "materia": "Álgebra y Geometría Analítica",
+    "curso": "1K04",
+    "diaCursado": "Martes",
+    "horaInicio": "10:15",
+    "horaFin": "13:15"
+  },
+  {
+    "anio": 1,
+    "materia": "Álgebra y Geometría Analítica",
+    "curso": "1K04",
+    "diaCursado": "Miércoles",
+    "horaInicio": "09:30",
+    "horaFin": "11:45"
+  },
+  {
+    "anio": 1,
+    "materia": "Álgebra y Geometría Analítica",
+    "curso": "1K13",
+    "diaCursado": "Martes",
+    "horaInicio": "16:45",
+    "horaFin": "19:00"
+  },
+  {
+    "anio": 1,
+    "materia": "Álgebra y Geometría Analítica",
+    "curso": "1K13",
+    "diaCursado": "Miércoles",
+    "horaInicio": "14:30",
+    "horaFin": "16:00"
+  },
+  {
+    "anio": 1,
+    "materia": "Álgebra y Geometría Analítica",
+    "curso": "1K13",
+    "diaCursado": "Viernes",
+    "horaInicio": "14:30",
+    "horaFin": "17:30"
+  },
+  {
+    "anio": 1,
+    "materia": "Álgebra y Geometría Analítica",
+    "curso": "1K22",
+    "diaCursado": "Lunes",
+    "horaInicio": "21:15",
+    "horaFin": "23:30"
+  },
+  {
+    "anio": 1,
+    "materia": "Álgebra y Geometría Analítica",
+    "curso": "1K22",
+    "diaCursado": "Martes",
+    "horaInicio": "21:15",
+    "horaFin": "22:45"
+  },
+  {
+    "anio": 1,
+    "materia": "Álgebra y Geometría Analítica",
+    "curso": "1K22",
+    "diaCursado": "Viernes",
+    "horaInicio": "19:00",
+    "horaFin": "22:00"
+  },
+  {
+    "anio": 1,
+    "materia": "Análisis Matemático I",
+    "curso": "1K01",
+    "diaCursado": "Martes",
+    "horaInicio": "08:45",
+    "horaFin": "10:15"
+  },
+  {
+    "anio": 1,
+    "materia": "Análisis Matemático I",
+    "curso": "1K01",
+    "diaCursado": "Miércoles",
+    "horaInicio": "08:00",
+    "horaFin": "10:15"
+  },
+  {
+    "anio": 1,
+    "materia": "Análisis Matemático I",
+    "curso": "1K01",
+    "diaCursado": "Viernes",
+    "horaInicio": "08:00",
+    "horaFin": "11:00"
+  },
+  {
+    "anio": 1,
+    "materia": "Análisis Matemático I",
+    "curso": "1K02",
+    "diaCursado": "Martes",
+    "horaInicio": "10:15",
+    "horaFin": "12:30"
+  },
+  {
+    "anio": 1,
+    "materia": "Análisis Matemático I",
+    "curso": "1K02",
+    "diaCursado": "Miércoles",
+    "horaInicio": "08:00",
+    "horaFin": "11:00"
+  },
+  {
+    "anio": 1,
+    "materia": "Análisis Matemático I",
+    "curso": "1K02",
+    "diaCursado": "Jueves",
+    "horaInicio": "10:15",
+    "horaFin": "11:45"
+  },
+  {
+    "anio": 1,
+    "materia": "Análisis Matemático I",
+    "curso": "1K04",
+    "diaCursado": "Martes",
+    "horaInicio": "08:00",
+    "horaFin": "10:15"
+  },
+  {
+    "anio": 1,
+    "materia": "Análisis Matemático I",
+    "curso": "1K04",
+    "diaCursado": "Miércoles",
+    "horaInicio": "11:45",
+    "horaFin": "13:15"
+  },
+  {
+    "anio": 1,
+    "materia": "Análisis Matemático I",
+    "curso": "1K04",
+    "diaCursado": "Viernes",
+    "horaInicio": "08:00",
+    "horaFin": "11:00"
+  },
+  {
+    "anio": 1,
+    "materia": "Análisis Matemático I",
+    "curso": "1K13",
+    "diaCursado": "Lunes",
+    "horaInicio": "14:30",
+    "horaFin": "16:45"
+  },
+  {
+    "anio": 1,
+    "materia": "Análisis Matemático I",
+    "curso": "1K13",
+    "diaCursado": "Miércoles",
+    "horaInicio": "16:00",
+    "horaFin": "17:30"
+  },
+  {
+    "anio": 1,
+    "materia": "Análisis Matemático I",
+    "curso": "1K13",
+    "diaCursado": "Jueves",
+    "horaInicio": "14:30",
+    "horaFin": "17:30"
+  },
+  {
+    "anio": 1,
+    "materia": "Análisis Matemático I",
+    "curso": "1K22",
+    "diaCursado": "Lunes",
+    "horaInicio": "19:00",
+    "horaFin": "21:15"
+  },
+  {
+    "anio": 1,
+    "materia": "Análisis Matemático I",
+    "curso": "1K22",
+    "diaCursado": "Miércoles",
+    "horaInicio": "19:45",
+    "horaFin": "21:15"
+  },
+  {
+    "anio": 1,
+    "materia": "Análisis Matemático I",
+    "curso": "1K22",
+    "diaCursado": "Jueves",
+    "horaInicio": "19:00",
+    "horaFin": "22:00"
+  },
+  {
+    "anio": 1,
+    "materia": "Lógica y Estructuras Discretas",
+    "curso": "1K01",
+    "diaCursado": "Lunes",
+    "horaInicio": "08:00",
+    "horaFin": "10:15"
+  },
+  {
+    "anio": 1,
+    "materia": "Lógica y Estructuras Discretas",
+    "curso": "1K01",
+    "diaCursado": "Jueves",
+    "horaInicio": "08:00",
+    "horaFin": "10:15"
+  },
+  {
+    "anio": 1,
+    "materia": "Lógica y Estructuras Discretas",
+    "curso": "1K02",
+    "diaCursado": "Lunes",
+    "horaInicio": "08:00",
+    "horaFin": "10:15"
+  },
+  {
+    "anio": 1,
+    "materia": "Lógica y Estructuras Discretas",
+    "curso": "1K02",
+    "diaCursado": "Jueves",
+    "horaInicio": "08:00",
+    "horaFin": "10:15"
+  },
+  {
+    "anio": 1,
+    "materia": "Lógica y Estructuras Discretas",
+    "curso": "1K03",
+    "diaCursado": "Lunes",
+    "horaInicio": "08:00",
+    "horaFin": "12:30"
+  },
+  {
+    "anio": 1,
+    "materia": "Lógica y Estructuras Discretas",
+    "curso": "1K04",
+    "diaCursado": "Lunes",
+    "horaInicio": "08:00",
+    "horaFin": "10:15"
+  },
+  {
+    "anio": 1,
+    "materia": "Lógica y Estructuras Discretas",
+    "curso": "1K04",
+    "diaCursado": "Jueves",
+    "horaInicio": "08:00",
+    "horaFin": "10:15"
+  },
+  {
+    "anio": 1,
+    "materia": "Lógica y Estructuras Discretas",
+    "curso": "1K13",
+    "diaCursado": "Lunes",
+    "horaInicio": "16:45",
+    "horaFin": "19:00"
+  },
+  {
+    "anio": 1,
+    "materia": "Lógica y Estructuras Discretas",
+    "curso": "1K13",
+    "diaCursado": "Martes",
+    "horaInicio": "14:30",
+    "horaFin": "16:45"
+  },
+  {
+    "anio": 1,
+    "materia": "Lógica y Estructuras Discretas",
+    "curso": "1K22",
+    "diaCursado": "Martes",
+    "horaInicio": "19:00",
+    "horaFin": "21:15"
+  },
+  {
+    "anio": 1,
+    "materia": "Lógica y Estructuras Discretas",
+    "curso": "1K22",
+    "diaCursado": "Miércoles",
+    "horaInicio": "21:15",
+    "horaFin": "23:30"
+  },
+  {
+    "anio": 2,
+    "materia": "Análisis de Sistemas de Información",
+    "curso": "2K01",
+    "diaCursado": "Miércoles",
+    "horaInicio": "08:00",
+    "horaFin": "12:30"
+  },
+  {
+    "anio": 2,
+    "materia": "Análisis de Sistemas de Información",
+    "curso": "2K02",
+    "diaCursado": "Miércoles",
+    "horaInicio": "08:00",
+    "horaFin": "12:30"
+  },
+  {
+    "anio": 2,
+    "materia": "Análisis de Sistemas de Información",
+    "curso": "2K03",
+    "diaCursado": "Miércoles",
+    "horaInicio": "08:00",
+    "horaFin": "10:15"
+  },
+  {
+    "anio": 2,
+    "materia": "Análisis de Sistemas de Información",
+    "curso": "2K07",
+    "diaCursado": "Lunes",
+    "horaInicio": "16:45",
+    "horaFin": "19:00"
+  },
+  {
+    "anio": 2,
+    "materia": "Análisis de Sistemas de Información",
+    "curso": "2K07",
+    "diaCursado": "Miércoles",
+    "horaInicio": "16:45",
+    "horaFin": "19:00"
+  },
+  {
+    "anio": 2,
+    "materia": "Análisis de Sistemas de Información",
+    "curso": "2K08",
+    "diaCursado": "Lunes",
+    "horaInicio": "16:45",
+    "horaFin": "19:00"
+  },
+  {
+    "anio": 2,
+    "materia": "Análisis de Sistemas de Información",
+    "curso": "2K08",
+    "diaCursado": "Miércoles",
+    "horaInicio": "16:45",
+    "horaFin": "19:00"
+  },
+  {
+    "anio": 2,
+    "materia": "Análisis de Sistemas de Información",
+    "curso": "2K13",
+    "diaCursado": "Miércoles",
+    "horaInicio": "19:00",
+    "horaFin": "23:30"
+  },
+  {
+    "anio": 2,
+    "materia": "Análisis de Sistemas de Información",
+    "curso": "2K14",
+    "diaCursado": "Miércoles",
+    "horaInicio": "19:00",
+    "horaFin": "21:15"
+  },
+  {
+    "anio": 2,
+    "materia": "Análisis Matemático II",
+    "curso": "2K01",
+    "diaCursado": "Lunes",
+    "horaInicio": "08:00",
+    "horaFin": "10:15"
+  },
+  {
+    "anio": 2,
+    "materia": "Análisis Matemático II",
+    "curso": "2K01",
+    "diaCursado": "Jueves",
+    "horaInicio": "08:00",
+    "horaFin": "10:15"
+  },
+  {
+    "anio": 2,
+    "materia": "Análisis Matemático II",
+    "curso": "2K01",
+    "diaCursado": "Viernes",
+    "horaInicio": "08:00",
+    "horaFin": "11:00"
+  },
+  {
+    "anio": 2,
+    "materia": "Análisis Matemático II",
+    "curso": "2K07",
+    "diaCursado": "Martes",
+    "horaInicio": "16:45",
+    "horaFin": "19:00"
+  },
+  {
+    "anio": 2,
+    "materia": "Análisis Matemático II",
+    "curso": "2K07",
+    "diaCursado": "Jueves",
+    "horaInicio": "16:00",
+    "horaFin": "19:00"
+  },
+  {
+    "anio": 2,
+    "materia": "Análisis Matemático II",
+    "curso": "2K07",
+    "diaCursado": "Viernes",
+    "horaInicio": "16:45",
+    "horaFin": "19:00"
+  },
+  {
+    "anio": 2,
+    "materia": "Análisis Matemático II",
+    "curso": "2K13",
+    "diaCursado": "Lunes",
+    "horaInicio": "19:00",
+    "horaFin": "22:00"
+  },
+  {
+    "anio": 2,
+    "materia": "Análisis Matemático II",
+    "curso": "2K13",
+    "diaCursado": "Jueves",
+    "horaInicio": "19:00",
+    "horaFin": "23:30"
+  },
+  {
+    "anio": 2,
+    "materia": "Ingeniería y Sociedad",
+    "curso": "2K01",
+    "diaCursado": "Martes",
+    "horaInicio": "08:45",
+    "horaFin": "10:15"
+  },
+  {
+    "anio": 2,
+    "materia": "Ingeniería y Sociedad",
+    "curso": "2K01",
+    "diaCursado": "Viernes",
+    "horaInicio": "11:00",
+    "horaFin": "12:30"
+  },
+  {
+    "anio": 2,
+    "materia": "Ingeniería y Sociedad",
+    "curso": "2K02",
+    "diaCursado": "Martes",
+    "horaInicio": "08:45",
+    "horaFin": "10:15"
+  },
+  {
+    "anio": 2,
+    "materia": "Ingeniería y Sociedad",
+    "curso": "2K02",
+    "diaCursado": "Viernes",
+    "horaInicio": "11:00",
+    "horaFin": "12:30"
+  },
+  {
+    "anio": 2,
+    "materia": "Ingeniería y Sociedad",
+    "curso": "2K07",
+    "diaCursado": "Jueves",
+    "horaInicio": "14:30",
+    "horaFin": "16:00"
+  },
+  {
+    "anio": 2,
+    "materia": "Ingeniería y Sociedad",
+    "curso": "2K07",
+    "diaCursado": "Viernes",
+    "horaInicio": "15:15",
+    "horaFin": "16:45"
+  },
+  {
+    "anio": 2,
+    "materia": "Ingeniería y Sociedad",
+    "curso": "2K13",
+    "diaCursado": "Lunes",
+    "horaInicio": "22:00",
+    "horaFin": "23:30"
+  },
+  {
+    "anio": 2,
+    "materia": "Ingeniería y Sociedad",
+    "curso": "2K13",
+    "diaCursado": "Martes",
+    "horaInicio": "19:00",
+    "horaFin": "20:30"
+  },
+  {
+    "anio": 2,
+    "materia": "Ingeniería y Sociedad",
+    "curso": "2K13",
+    "diaCursado": "Lunes",
+    "horaInicio": "09:30",
+    "horaFin": "11:00"
+  },
+  {
+    "anio": 2,
+    "materia": "Ingeniería y Sociedad",
+    "curso": "2K13",
+    "diaCursado": "Miércoles",
+    "horaInicio": "09:30",
+    "horaFin": "11:00"
+  },
+  {
+    "anio": 2,
+    "materia": "Inglés I",
+    "curso": "2B-56",
+    "diaCursado": "Martes",
+    "horaInicio": "14:30",
+    "horaFin": "16:00"
+  },
+  {
+    "anio": 2,
+    "materia": "Inglés I",
+    "curso": "2B-56",
+    "diaCursado": "Jueves",
+    "horaInicio": "14:30",
+    "horaFin": "16:00"
+  },
+  {
+    "anio": 2,
+    "materia": "Sintaxis y Semántica de los Lenguajes",
+    "curso": "2K01",
+    "diaCursado": "Lunes",
+    "horaInicio": "10:15",
+    "horaFin": "13:15"
+  },
+  {
+    "anio": 2,
+    "materia": "Sintaxis y Semántica de los Lenguajes",
+    "curso": "2K01",
+    "diaCursado": "Jueves",
+    "horaInicio": "10:15",
+    "horaFin": "13:15"
+  },
+  {
+    "anio": 2,
+    "materia": "Sintaxis y Semántica de los Lenguajes",
+    "curso": "2K02",
+    "diaCursado": "Martes",
+    "horaInicio": "10:15",
+    "horaFin": "13:15"
+  },
+  {
+    "anio": 2,
+    "materia": "Sintaxis y Semántica de los Lenguajes",
+    "curso": "2K02",
+    "diaCursado": "Jueves",
+    "horaInicio": "10:15",
+    "horaFin": "13:15"
+  },
+  {
+    "anio": 2,
+    "materia": "Sintaxis y Semántica de los Lenguajes",
+    "curso": "2K07",
+    "diaCursado": "Lunes",
+    "horaInicio": "13:45",
+    "horaFin": "16:45"
+  },
+  {
+    "anio": 2,
+    "materia": "Sintaxis y Semántica de los Lenguajes",
+    "curso": "2K07",
+    "diaCursado": "Martes",
+    "horaInicio": "13:45",
+    "horaFin": "16:45"
+  },
+  {
+    "anio": 2,
+    "materia": "Sintaxis y Semántica de los Lenguajes",
+    "curso": "2K13",
+    "diaCursado": "Martes",
+    "horaInicio": "20:30",
+    "horaFin": "23:30"
+  },
+  {
+    "anio": 2,
+    "materia": "Sintaxis y Semántica de los Lenguajes",
+    "curso": "2K13",
+    "diaCursado": "Viernes",
+    "horaInicio": "19:00",
+    "horaFin": "22:00"
+  },
+  {
+    "anio": 3,
+    "materia": "Bases de Datos",
+    "curso": "3K09",
+    "diaCursado": "Lunes",
+    "horaInicio": "14:30",
+    "horaFin": "17:30"
+  },
+  {
+    "anio": 3,
+    "materia": "Bases de Datos",
+    "curso": "3K09",
+    "diaCursado": "Sabado",
+    "horaInicio": "08:00",
+    "horaFin": "11:00"
+  },
+  {
+    "anio": 3,
+    "materia": "Bases de Datos",
+    "curso": "3K10",
+    "diaCursado": "Lunes",
+    "horaInicio": "19:00",
+    "horaFin": "22:00"
+  },
+  {
+    "anio": 3,
+    "materia": "Bases de Datos",
+    "curso": "3K10",
+    "diaCursado": "Sabado",
+    "horaInicio": "11:00",
+    "horaFin": "14:00"
+  },
+  {
+    "anio": 3,
+    "materia": "Comunicación de Datos",
+    "curso": "3K09",
+    "diaCursado": "Lunes",
+    "horaInicio": "17:30",
+    "horaFin": "19:00"
+  },
+  {
+    "anio": 3,
+    "materia": "Comunicación de Datos",
+    "curso": "3K09",
+    "diaCursado": "Viernes",
+    "horaInicio": "14:30",
+    "horaFin": "19:00"
+  },
+  {
+    "anio": 3,
+    "materia": "Comunicación de Datos",
+    "curso": "3K10",
+    "diaCursado": "Martes",
+    "horaInicio": "21:15",
+    "horaFin": "22:45"
+  },
+  {
+    "anio": 3,
+    "materia": "Comunicación de Datos",
+    "curso": "3K10",
+    "diaCursado": "Miércoles",
+    "horaInicio": "20:30",
+    "horaFin": "23:30"
+  },
+  {
+    "anio": 3,
+    "materia": "Comunicación de Datos",
+    "curso": "3K10",
+    "diaCursado": "Viernes",
+    "horaInicio": "21:15",
+    "horaFin": "22:45"
+  },
+  {
+    "anio": 3,
+    "materia": "Comunicación Lingüística (Elec.)",
+    "curso": "3K80",
+    "diaCursado": "Lunes",
+    "horaInicio": "09:00",
+    "horaFin": "12:00"
+  },
+  {
+    "anio": 3,
+    "materia": "Comunicación Lingüística (Elec.)",
+    "curso": "3K81",
+    "diaCursado": "Lunes",
+    "horaInicio": "14:00",
+    "horaFin": "17:00"
+  },
+  {
+    "anio": 3,
+    "materia": "Diseño de Sistemas de Información",
+    "curso": "3K09",
+    "diaCursado": "Jueves",
+    "horaInicio": "13:45",
+    "horaFin": "18:15"
+  },
+  {
+    "anio": 3,
+    "materia": "Diseño de Sistemas de Información",
+    "curso": "3K10",
+    "diaCursado": "Jueves",
+    "horaInicio": "19:00",
+    "horaFin": "23:30"
+  },
+  {
+    "anio": 3,
+    "materia": "Economía",
+    "curso": "3K09",
+    "diaCursado": "Martes",
+    "horaInicio": "15:15",
+    "horaFin": "16:45"
+  },
+  {
+    "anio": 3,
+    "materia": "Economía",
+    "curso": "3K09",
+    "diaCursado": "Miércoles",
+    "horaInicio": "16:00",
+    "horaFin": "19:00"
+  },
+  {
+    "anio": 3,
+    "materia": "Economía",
+    "curso": "3K10",
+    "diaCursado": "Miércoles",
+    "horaInicio": "19:00",
+    "horaFin": "20:30"
+  },
+  {
+    "anio": 3,
+    "materia": "Economía",
+    "curso": "3K10",
+    "diaCursado": "Sabado",
+    "horaInicio": "08:00",
+    "horaFin": "11:00"
+  },
+  {
+    "anio": 3,
+    "materia": "Inglés II",
+    "curso": "3B-61",
+    "diaCursado": "Miércoles",
+    "horaInicio": "11:00",
+    "horaFin": "12:30"
+  },
+  {
+    "anio": 3,
+    "materia": "Inglés II",
+    "curso": "3B-61",
+    "diaCursado": "Viernes",
+    "horaInicio": "11:00",
+    "horaFin": "12:30"
+  },
+  {
+    "anio": 3,
+    "materia": "Inglés II",
+    "curso": "3B-66",
+    "diaCursado": "Martes",
+    "horaInicio": "20:30",
+    "horaFin": "22:00"
+  },
+  {
+    "anio": 3,
+    "materia": "Inglés II",
+    "curso": "3B-66",
+    "diaCursado": "Jueves",
+    "horaInicio": "20:30",
+    "horaFin": "22:00"
+  },
+  {
+    "anio": 3,
+    "materia": "Probabilidad y Estadística",
+    "curso": "3K09",
+    "diaCursado": "Martes",
+    "horaInicio": "16:45",
+    "horaFin": "19:00"
+  },
+  {
+    "anio": 3,
+    "materia": "Probabilidad y Estadística",
+    "curso": "3K09",
+    "diaCursado": "Miércoles",
+    "horaInicio": "13:45",
+    "horaFin": "16:00"
+  },
+  {
+    "anio": 3,
+    "materia": "Probabilidad y Estadística",
+    "curso": "3K10",
+    "diaCursado": "Martes",
+    "horaInicio": "19:00",
+    "horaFin": "21:15"
+  },
+  {
+    "anio": 3,
+    "materia": "Probabilidad y Estadística",
+    "curso": "3K10",
+    "diaCursado": "Viernes",
+    "horaInicio": "19:00",
+    "horaFin": "21:15"
+  },
+  {
+    "anio": 3,
+    "materia": "Seminario Integrador",
+    "curso": "3K09",
+    "diaCursado": "Lunes",
+    "horaInicio": "21:15",
+    "horaFin": "23:30"
+  },
+  {
+    "anio": 3,
+    "materia": "Seminario Integrador",
+    "curso": "3K09",
+    "diaCursado": "Jueves",
+    "horaInicio": "19:00",
+    "horaFin": "22:45"
+  },
+  {
+    "anio": 3,
+    "materia": "Seminario Integrador",
+    "curso": "3K10",
+    "diaCursado": "Lunes",
+    "horaInicio": "16:00",
+    "horaFin": "19:00"
+  },
+  {
+    "anio": 3,
+    "materia": "Seminario Integrador",
+    "curso": "3K10",
+    "diaCursado": "Jueves",
+    "horaInicio": "13:45",
+    "horaFin": "16:45"
+  },
+  {
+    "anio": 4,
+    "materia": "Administración de Sistemas de Información",
+    "curso": "4K09",
+    "diaCursado": "Miércoles",
+    "horaInicio": "14:30",
+    "horaFin": "19:00"
+  },
+  {
+    "anio": 4,
+    "materia": "Administración de Sistemas de Información",
+    "curso": "4K10",
+    "diaCursado": "Jueves",
+    "horaInicio": "19:00",
+    "horaFin": "23:30"
+  },
+  {
+    "anio": 4,
+    "materia": "Ingeniería y Calidad de Software",
+    "curso": "4K09",
+    "diaCursado": "Jueves",
+    "horaInicio": "16:45",
+    "horaFin": "19:00"
+  },
+  {
+    "anio": 4,
+    "materia": "Ingeniería y Calidad de Software",
+    "curso": "4K10",
+    "diaCursado": "Lunes",
+    "horaInicio": "19:00",
+    "horaFin": "21:15"
+  },
+  {
+    "anio": 4,
+    "materia": "Investigación Operativa",
+    "curso": "4K09",
+    "diaCursado": "Martes",
+    "horaInicio": "16:45",
+    "horaFin": "19:00"
+  },
+  {
+    "anio": 4,
+    "materia": "Investigación Operativa",
+    "curso": "4K09",
+    "diaCursado": "Viernes",
+    "horaInicio": "15:15",
+    "horaFin": "19:00"
+  },
+  {
+    "anio": 4,
+    "materia": "Investigación Operativa",
+    "curso": "4K10",
+    "diaCursado": "Lunes",
+    "horaInicio": "21:15",
+    "horaFin": "23:30"
+  },
+  {
+    "anio": 4,
+    "materia": "Investigación Operativa",
+    "curso": "4K10",
+    "diaCursado": "Viernes",
+    "horaInicio": "19:00",
+    "horaFin": "22:45"
+  },
+  {
+    "anio": 4,
+    "materia": "Legislación",
+    "curso": "4K09",
+    "diaCursado": "Lunes",
+    "horaInicio": "14:30",
+    "horaFin": "17:30"
+  },
+  {
+    "anio": 4,
+    "materia": "Legislación",
+    "curso": "4K10",
+    "diaCursado": "Martes",
+    "horaInicio": "20:30",
+    "horaFin": "23:30"
+  },
+  {
+    "anio": 4,
+    "materia": "Simulación",
+    "curso": "4K09",
+    "diaCursado": "Martes",
+    "horaInicio": "14:30",
+    "horaFin": "16:45"
+  },
+  {
+    "anio": 4,
+    "materia": "Simulación",
+    "curso": "4K09",
+    "diaCursado": "Jueves",
+    "horaInicio": "14:30",
+    "horaFin": "16:45"
+  },
+  {
+    "anio": 4,
+    "materia": "Simulación",
+    "curso": "4K10",
+    "diaCursado": "Miércoles",
+    "horaInicio": "19:00",
+    "horaFin": "23:30"
+  },
+  {
+    "anio": 5,
+    "materia": "Gestión Gerencial",
+    "curso": "5K09",
+    "diaCursado": "Lunes",
+    "horaInicio": "14:30",
+    "horaFin": "19:00"
+  },
+  {
+    "anio": 5,
+    "materia": "Gestión Gerencial",
+    "curso": "5K10",
+    "diaCursado": "Lunes",
+    "horaInicio": "19:00",
+    "horaFin": "23:30"
+  },
+  {
+    "anio": 5,
+    "materia": "Proyecto Final",
+    "curso": "5K09",
+    "diaCursado": "Martes",
+    "horaInicio": "14:30",
+    "horaFin": "19:00"
+  },
+  {
+    "anio": 5,
+    "materia": "Proyecto Final",
+    "curso": "5K10",
+    "diaCursado": "Martes",
+    "horaInicio": "19:00",
+    "horaFin": "23:30"
+  },
+  {
+    "anio": 5,
+    "materia": "Redes Neuronales Profundas (Elec.)",
+    "curso": "5K102",
+    "diaCursado": "Miércoles",
+    "horaInicio": "19:00",
+    "horaFin": "22:00"
+  },
+  {
+    "anio": 5,
+    "materia": "Redes Neuronales Profundas (Elec.)",
+    "curso": "5K102",
+    "diaCursado": "Jueves",
+    "horaInicio": "19:00",
+    "horaFin": "22:00"
+  },
+  {
+    "anio": 5,
+    "materia": "Seguridad en los Sistemas de Información",
+    "curso": "5K09",
+    "diaCursado": "Viernes",
+    "horaInicio": "14:30",
+    "horaFin": "19:00"
+  },
+  {
+    "anio": 5,
+    "materia": "Seguridad en los Sistemas de Información",
+    "curso": "5K10",
+    "diaCursado": "Viernes",
+    "horaInicio": "19:00",
+    "horaFin": "23:30"
+  },
+  {
+    "anio": 5,
+    "materia": "Seguridad en Redes (Elec.)",
+    "curso": "5K09",
+    "diaCursado": "Jueves",
+    "horaInicio": "14:30",
+    "horaFin": "16:00"
+  },
+  {
+    "anio": 5,
+    "materia": "Seguridad en Redes (Elec.)",
+    "curso": "5K09",
+    "diaCursado": "Sabado",
+    "horaInicio": "09:00",
+    "horaFin": "12:00"
+  },
+  {
+    "anio": 5,
+    "materia": "Sistemas de Gestión",
+    "curso": "5K09",
+    "diaCursado": "Miércoles",
+    "horaInicio": "16:00",
+    "horaFin": "19:00"
+  },
+  {
+    "anio": 5,
+    "materia": "Sistemas de Gestión",
+    "curso": "5K09",
+    "diaCursado": "Jueves",
+    "horaInicio": "16:00",
+    "horaFin": "19:00"
+  },
+  {
+    "anio": 5,
+    "materia": "Sistemas de Gestión",
+    "curso": "5K10",
+    "diaCursado": "Miércoles",
+    "horaInicio": "19:00",
+    "horaFin": "22:00"
+  },
+  {
+    "anio": 5,
+    "materia": "Sistemas de Gestión",
+    "curso": "5K10",
+    "diaCursado": "Jueves",
+    "horaInicio": "19:00",
+    "horaFin": "22:00"
+  }
+]
