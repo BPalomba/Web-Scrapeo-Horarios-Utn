@@ -99,12 +99,12 @@ public class WebScrapperService {
 
            }
 
-            //Conversion a json a travez de gson
+            //Conversion a json a traves de gson
             Gson gson = new GsonBuilder().setPrettyPrinting().create();
             String json = gson.toJson(comisiones);
 
             // Descomentar para generar un archivo .json con el contenido
-            Files.writeString(Paths.get("comisiones.json"), json, StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING);
+            // Files.writeString(Paths.get("comisiones.json"), json, StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING);
 
             return json;
 
